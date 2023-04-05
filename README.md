@@ -18,7 +18,7 @@
 
 # Houndly Chatbot
 
-![Houndly Chatbot Logo](https://dewey.tailorbrands.com/production/brand_version_mockup_image/385/8256390385_4dc8e3db-5c3a-452f-8196-00157840f1e3.png?cb=1680656986)
+![Houndly Chatbot Logo](https://dewey.tailorbrands.com/production/brand_version_mockup_image/537/8256397537_b900a728-7855-4037-bc27-a6f1c0b08dd4.png?cb=1680657229)
 
 Houndly Chatbot es una aplicación de chatbot desarrollada en Python con Twilio para la atención de usuarios en una veterinaria. Proporciona una forma eficiente y conveniente de interactuar con los clientes y responder a sus preguntas sobre la atención y cuidado de sus mascotas.
 
