@@ -4,6 +4,7 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/WhatsApp-1BD741?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![image](https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=Twilio&logoColor=white)
+![image](https://img.shields.io/badge/Google%20Sheets-1BD741?style=for-the-badge&logo=Google%20Sheets&logoColor=white)
 
 #
 [![Build Status](https://img.shields.io/travis/usuario/houndly-chatbot.svg?style=flat-square)](https://travis-ci.org/usuario/houndly-chatbot)
